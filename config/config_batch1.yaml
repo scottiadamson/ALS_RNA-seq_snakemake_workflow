@@ -1,0 +1,4 @@
+samples: ['10', '10a', '10s', '11', '11a', '11s', '12', '13', '14', '15', '16', '16a', '16s', '17a', '17s', '18', '18a', '18s', '19', '19a', '19s', '2', '20', '25', '25a', '25s', '26', '26a', '26s', '27', '27a', '27s', '28a', '28s', '29a', '29s', '30a', '30s', '4', '5', '6', '7', '8', '9', '9a', '9s', '20a1', '20a2', '20s1', '20s2']
+
+fastq_dir: '/gpfs/commons/groups/nygcfaculty/knowles_phatnani/Project_PHA_14330_B01_NAN_Lane.2020-07-21/'
+star_index: '/gpfs/commons/groups/nygcfaculty/knowles_phatnani/ALS_compartment_RNA_seq/references/star_index'

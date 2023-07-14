@@ -1,0 +1,5 @@
+samples: ['C4a', 'C4s', 'C5a']
+#, 'C5s', 'N10a', 'N10s', 'N11a', 'N11s', 'N12a', 'N12s', 'N13a', 'N13s', 'N14a', 'N14s', 'N16a', 'N16s', 'N1s', 'N20a', 'N20s', 'N21a', 'N21s', 'N24a', 'N24s', 'N26a', 'N26s', 'N28a', 'N28s', 'N29a', 'N29s', 'N2s', 'N30a', 'N30s', 'N35a', 'N35s', 'N37a', 'N37s', 'N38a', 'N38s', 'N3a', 'N3s', 'N42a', 'N42s', 'N43s', 'N45a', 'N45s', 'N46a', 'N46s', 'N48a', 'N48s', 'N49s', 'N4a', 'N4s', 'N51a', 'N51s', 'N52a', 'N52s', 'N54a', 'N54s', 'N55a', 'N55s', 'N58a', 'N58s', 'N59a', 'N59s', 'N5a', 'N5s', 'N60a', 'N60s', 'N61a', 'N61s', 'N66a', 'N66s', 'N70s', 'N71s', 'N72a', 'N72s', 'N73a', 'N73s', 'N74s', 'N75a', 'N75s', 'N76s', 'N77s', 'N78a', 'N78s', 'N79a', 'N79s', 'N80a', 'N80s', 'N81a', 'N81s', 'N84a', 'N84s', 'N85a', 'N85s', 'N86a', 'N86s', 'N8a', 'N8s']
+
+fastq_dir: '/gpfs/commons/groups/nygcfaculty/knowles_phatnani/copy_Project_PHA_15479_B01_NAN_Lane.2023-06-06/'
+star_index: '/gpfs/commons/groups/nygcfaculty/knowles_phatnani/ALS_compartment_RNA_seq/references/star_index'
