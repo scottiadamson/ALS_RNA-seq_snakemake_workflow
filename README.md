@@ -23,9 +23,9 @@ cd references
 wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_43/gencode.v43.transcripts.fa.gz
 gunzip gencode.v43.transcripts.fa.gz
 wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz
-unzip hg38.fa.gz
+gunzip hg38.fa.gz
 wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_43/gencode.v43.basic.annotation.gff3.gz
-unzip gencode.v43.basic.annotation.gff3.gz
+gunzip gencode.v43.basic.annotation.gff3.gz
 ```
 Submit all of the reference building stuff  
 Be sure to edit the paths in the .sh files to the reference folder in your snakemake directory
