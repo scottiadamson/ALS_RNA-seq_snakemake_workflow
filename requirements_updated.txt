@@ -24,7 +24,6 @@ boost-cpp=1.78.0=h6582d0a_3
 boto3=1.26.153=pyhd8ed1ab_0
 botocore=1.29.153=pyhd8ed1ab_0
 brotlipy=0.7.0=py310h5764c6d_1005
-bx-python=0.9.0=pypi_0
 bzip2=1.0.8=h7f98852_4
 c-ares=1.19.1=hd590300_0
 ca-certificates=2023.5.7=hbcca054_0
@@ -48,7 +47,6 @@ connection_pool=0.0.3=pyhd3deb0d_0
 cryptography=41.0.1=py310h75e40e8_0
 curl=8.1.2=h409715c_0
 cutadapt=4.4=py310h4b81fae_1
-cython=3.0.0b3=pypi_0
 datrie=0.8.2=py310h5764c6d_6
 defusedxml=0.7.1=pyhd8ed1ab_0
 dnaio=0.10.0=py310h4b81fae_3
@@ -198,7 +196,6 @@ pynacl=1.5.0=py310h5764c6d_2
 pyopenssl=23.2.0=pyhd8ed1ab_1
 pyparsing=3.0.9=pyhd8ed1ab_0
 pyrsistent=0.19.3=py310h1fa729e_0
-pysam=0.21.0=pypi_0
 pysftp=0.2.9=py_1
 pysocks=1.7.1=pyha2e5f31_6
 pytest=7.3.2=pyhd8ed1ab_0
@@ -223,7 +220,6 @@ reretry=0.11.8=pyhd8ed1ab_0
 rich=13.4.2=pyhd8ed1ab_0
 rna-seqc=2.3.5=ha241645_5
 rsa=4.9=pyhd8ed1ab_0
-rseqc=2.6.4=pypi_0
 ruamel.yaml=0.17.31=py310h2372a71_0
 ruamel.yaml.clib=0.2.7=py310h1fa729e_1
 s3transfer=0.6.1=pyhd8ed1ab_0

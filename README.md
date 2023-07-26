@@ -14,6 +14,7 @@ Then create a mamba environment with dependencies:
 mamba create -n ALS_analysis_env
 mamba activate ALS_analysis_env
 mamba install --file requirements_updated.txt
+pip install rnaseqc
 ``` 
 
 ### Preparing references ###
